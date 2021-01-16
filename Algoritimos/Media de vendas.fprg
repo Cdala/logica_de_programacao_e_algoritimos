@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Peixe Piloto"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-01-07 06:25:23 "/>
+        <attribute name="created" value="UGVpeGUgUGlsb3RvO1BFSVhFUElMT1RPLVBDOzIwMjEtMDEtMDc7IjA2OjE2OjQzICI7MzQwMA=="/>
+        <attribute name="edited" value="UGVpeGUgUGlsb3RvO1BFSVhFUElMT1RPLVBDOzIwMjEtMDEtMDc7IjA2OjI1OjIzICI7MjszNTA3"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="janeiro, fevereiro, marco, abril, media" type="Real" array="False" size=""/>
+            <input variable="janeiro"/>
+            <input variable="fevereiro"/>
+            <input variable="marco"/>
+            <input variable="abril"/>
+            <assign variable="media" expression="(janeiro+fevereiro+marco+abril)/4"/>
+            <if expression="media&lt;=5000">
+                <then>
+                    <output expression="&quot;Voc&#234; receber&#225; 10% de gratifica&#231;&#227;o!&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Voc&#234; reberer&#225; 3% de gratifica&#231;&#227;o!&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
