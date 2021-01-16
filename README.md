@@ -1,2 +1,3 @@
-# logica_de_programacao_e_algoritimos
- Exercícios de Algrítimos feitos no curso da Digital Innovation One
+#Lógica de Programação e Algorítimos
+ Exercícios de Algrítimos feitos na disciplina de Lógica de Programação essencial do curso da Digital Innovation One.
+
