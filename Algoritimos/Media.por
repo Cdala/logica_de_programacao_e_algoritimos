@@ -15,7 +15,7 @@ programa {
 		leia (nota4)
 		
 		media = (nota1+nota2+nota3+nota4)/4
-		escreva ("O aluno "+ aluno + " Obteve a média " + media)
+		escreva ("O aluno "+ aluno + " Obteve a media " + media)
 		
 	}
 }

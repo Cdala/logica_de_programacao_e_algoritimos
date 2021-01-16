@@ -1,21 +1,21 @@
-// Algomrítimo que calcula a tabuada
+// Algomrï¿½timo que calcula a tabuada
 programa {
 	funcao inicio() {
 		
-		//Declarar variáveis
+		//Declarar variaveis
 		inteiro contador, limite, resultado, tabuada
 		
-	    //Atribuir valores as variáveis	
+	    //Atribuir valores as variaveis	
 		contador=0
 		limite=10
 		
-		//Captura entrada de dados do usuário
-		escreva(" Digite qual tabuada você quer que eu resolva? ")
+		//Captura entrada de dados do usuario
+		escreva(" Digite qual tabuada voce quer que eu resolva? ")
 		leia (tabuada)
-		escreva(" Qual é o número limite da tabuada? ")
+		escreva(" Qual e o numero limite da tabuada? ")
 		leia(limite)
 		
-		//Função que calcula a tabuada
+		//Funcao que calcula a tabuada
 		faca{
 		    
 		    resultado= tabuada * contador

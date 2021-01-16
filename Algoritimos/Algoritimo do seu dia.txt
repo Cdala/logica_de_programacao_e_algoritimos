@@ -5,19 +5,19 @@ Inicio
 	Vai  ao banheiro
 	Escova os dentes
 	Vai a cozinha
-	Passa o café
-	Arruma a mesa do café
-	Senta e toma o café
+	Passa o cafe
+	Arruma a mesa do cafe
+	Senta e toma o cafe
 	Levanta da mesa
-        Arruma a mesa do café
-	Lava a louça
+        Arruma a mesa do cafe
+	Lava a louca
 	Vai ao banheiro
 	Escova os dentes
 	Sai de casa
 	Vai trabalhar
 	Faz atividades do trabalho
 	Sai  do trabalho	
-	Vai ao restaurante almoçar
+	Vai ao restaurante almocar
 	Volta ao trabalho
 	Faz atividades do trabalho
 	Sai do trabalho
@@ -28,7 +28,7 @@ Inicio
 	Senta e janta
 	Levanta da mesa
 	Arruma a mesa do jantar
-	Lava a louça
+	Lava a louca
 	Vai ao quarto
 	Deita na cama
 	Dorme

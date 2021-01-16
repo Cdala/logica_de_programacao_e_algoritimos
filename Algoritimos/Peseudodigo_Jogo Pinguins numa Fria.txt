@@ -1,25 +1,25 @@
 INICIO DO JOGO
 
 	Pinguim_Filhote1 sobe no gelo
-	Pinguim_Mãe1 sobe no gelo
+	Pinguim_Mae1 sobe no gelo
 	Atravessa
-	Pinguim_Mãe1 desce do gelo
+	Pinguim_Mae1 desce do gelo
 	Atravessa
 	Pinguim_Filhote2 sobe no gelo
 	Atravessa
 	Pinguim_Filhote1 desce do gelo
 	Atravessa
-	Pinguim_Mãe2 sobe no gelo
+	Pinguim_Mae2 sobe no gelo
 	Atravessa
-	Pinguim_Mãe2 desce do gelo
+	Pinguim_Mae2 desce do gelo
 	Atravessa
 	Pinguim_Filhote3 sobe no gelo
 	Atravessa
 	Pinguim_Filhote2 desce do gelo
 	Atravessa
-	Pinguim_Mãe3 sobe no gelo
+	Pinguim_Mae3 sobe no gelo
 	Atravessa
-	Pinguim_Mãe3 desce do gelo
+	Pinguim_Mae3 desce do gelo
 	Pinguim_Filhote3 desce do gelo
 
 FIM DE JOGO
